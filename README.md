@@ -1,4 +1,4 @@
-# GenAI-Assignment1
+# GenAI-Assignment1 - Megan Huber
 
 This repository contains work for Generative AI class's Assignment 1 at Johns Hopkins University, including short written deliverables related to industry use of AI. It also serves as a simple example of creating files, tracking changes with Git, and pushing commits to GitHub.
 
